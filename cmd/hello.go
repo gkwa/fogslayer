@@ -1,8 +1,9 @@
 package cmd
 
 import (
-	"github.com/gkwa/fogslayer/core"
 	"github.com/spf13/cobra"
+
+	"github.com/gkwa/fogslayer/core"
 )
 
 var helloCmd = &cobra.Command{
