@@ -2,7 +2,7 @@ module github.com/gkwa/fogslayer
 
 go 1.23.0
 
-toolchain go1.23.4
+toolchain go1.23.5
 
 require (
 	cuelang.org/go v0.11.1
