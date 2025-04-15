@@ -7,7 +7,7 @@ toolchain go1.24.2
 require (
 	cuelang.org/go v0.12.1
 	github.com/fatih/color v1.18.0
-	github.com/go-git/go-git/v5 v5.15.0
+	github.com/go-git/go-git/v5 v5.16.0
 	github.com/go-logr/logr v1.4.2
 	github.com/go-logr/zapr v1.3.0
 	github.com/go-logr/zerologr v1.2.3
